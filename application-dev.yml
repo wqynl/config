@@ -3,4 +3,4 @@ spring:
     name: service1
 server:
   port: 9001
-env: dev
+env:dev
