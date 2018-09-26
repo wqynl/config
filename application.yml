@@ -3,4 +3,4 @@ spring:
     name: service1
 server:
   port: 9001
-age: 18
+age: 22
