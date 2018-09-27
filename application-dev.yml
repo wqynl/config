@@ -1,7 +1,5 @@
 spring:
   application:
     name: service1
-server:
-  port: 9001
 env: dev
 
